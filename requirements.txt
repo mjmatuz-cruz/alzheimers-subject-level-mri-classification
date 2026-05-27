@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+scikit-learn
+numpy
+pandas
+matplotlib
+opencv-python
+nibabel
+Pillow
+tqdm
+grad-cam
+jupyter
+notebook
